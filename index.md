@@ -27,6 +27,10 @@ that each claim can be traced back to a reproducible notebook.
 
 ### The Chinese Stroke Paradox: More Deaths Despite Lower Risk
 
+> **In one line.** China's age-standardised stroke *rate* fell by 37% between 2000 and 2021,
+> while the *number* of stroke deaths rose by 34% — the gap is population ageing, not a
+> contradiction in the data.
+
 **Research question.** China's age-standardised stroke death rate fell by 37.2% between 2000
 and 2021, yet the total number of stroke deaths rose by 33.6% over the same period. Can this
 apparent contradiction be resolved using only public country-level data, and what
