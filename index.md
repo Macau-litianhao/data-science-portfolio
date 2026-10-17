@@ -7,8 +7,7 @@ description: Reproducible data analyses with open data, by Li Tianhao (Universit
 # Li Tianhao — Data Science Portfolio
 
 MSc student in Data Science (Precision Medicine) at the University of Macau. Background in
-bioengineering and three years in manufacturing process engineering, now moving into medical
-image analysis and applied data science.
+bioengineering, now moving into medical image analysis and applied data science.
 
 This site collects data analysis projects with their code, data sources, and findings, so
 that each claim can be traced back to a reproducible notebook.
