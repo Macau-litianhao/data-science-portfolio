@@ -1,3 +1,9 @@
+---
+layout: default
+title: Li Tianhao — Data Science Portfolio
+description: Reproducible data analyses with open data, by Li Tianhao (University of Macau).
+---
+
 # Li Tianhao — Data Science Portfolio
 
 MSc student in Data Science (Precision Medicine) at the University of Macau. Background in
